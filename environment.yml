@@ -4,4 +4,5 @@ channels:
 dependencies:
   - matplotlib
   - hyperspy
+  - ipympl
   - hyperspy-gui-ipywidgets
