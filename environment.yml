@@ -1,8 +1,8 @@
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - matplotlib
-  - hyperspy
-  - ipympl
+  - hyperspy-base
   - hyperspy-gui-ipywidgets
+  - ipympl
+  - scikit-learn
+
