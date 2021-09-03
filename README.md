@@ -1,7 +1,7 @@
 # HyperSpy demos
 
-[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/master)
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/master/)
+[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/main)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/main/)
 [![Documentation Status](https://readthedocs.org/projects/hyperspy/badge/?version=stable)](http://hyperspy.readthedocs.io/en/stable/?badge=stable)
 
 ## Introduction
@@ -19,9 +19,9 @@ analyses.
 
 ### (Interactive) Running the demos online
 
-[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/master)
+[![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/main)
 
-Follow [this link](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/master)
+Follow [this link](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/main)
 or click the "launch binder" banner above to run the the demos on 
 [mybinder.org](https://mybinder.org/). The demos will run remotely, 
 and one can experiment with HyperSpy in a Jupyter notebook with no need 
@@ -33,15 +33,15 @@ visualization, see below.
 
 ### (Non-interactive) Visualizing the demos online
 
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/master/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/main/)
 
-Follow [this link](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/master/) 
+Follow [this link](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/main/) 
 or click on the "render nbviewer" banner above
 to display the demos with the 
 [Jupyter Notebook viewer](http://nbviewer.jupyter.org). 
 [nbviewer](http://nbviewer.jupyter.org/) will allow you to view the notebooks online,
 but you will not be able to change them or evaluate any code, like is possible with the 
-[binder](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/master).
+[binder](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/main).
 
 ### Running and visualizing the demos locally
 
