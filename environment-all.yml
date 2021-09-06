@@ -2,8 +2,6 @@ name: hyperspy
 channels:
   - conda-forge
 dependencies:
-  - hyperspy-base
-  - hyperspy-gui-ipywidgets
+  - hyperspy
   - ipympl
-  - scikit-learn
 
