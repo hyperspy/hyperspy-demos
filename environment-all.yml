@@ -2,6 +2,6 @@ name: hyperspy
 channels:
   - conda-forge
 dependencies:
-  - hyperspy
+  - hyperspy >=2.0
   - ipympl
 
