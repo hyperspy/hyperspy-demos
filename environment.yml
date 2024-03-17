@@ -2,8 +2,9 @@ name: hyperspy
 channels:
   - conda-forge
 dependencies:
-  - hyperspy-base>=1.7.0
-  - hyperspy-gui-ipywidgets>=1.5.0
+  - hyperspy-base>=2.0
+  - hyperspy-gui-ipywidgets>=2.0
+  - numba
+  - numexpr
   - ipympl
   - scikit-learn
-
