@@ -1,15 +1,15 @@
 # HyperSpy demos
 
 [![Live demos (Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hyperspy/hyperspy-demos/main)
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/main/)
-[![Documentation Status](https://readthedocs.org/projects/hyperspy/badge/?version=stable)](http://hyperspy.readthedocs.io/en/stable/?badge=stable)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/hyperspy/hyperspy-demos)
+[![Documentation Status](https://readthedocs.org/projects/hyperspy/badge/?version=stable)](https://hyperspy.readthedocs.io/en/stable/?badge=stable)
 
 ## Introduction
 
 This repository contains [Jupyter Notebooks](http://jupyter.org/) to demo and learn
-how to process multi-dimensional data with [HyperSpy](http://hyperspy.org). For
+how to process multi-dimensional data with [HyperSpy](https://hyperspy.org). For
 learning purposes, we recommend to use them alongside the 
-[HyperSpy User Guide](http://hyperspy.org/hyperspy-doc/current/index.html).
+[HyperSpy User Guide](https://hyperspy.org/hyperspy-doc/current).
 
 The root folder contains notebooks concerning general HyperSpy features while
 the subfolders contain notebooks for specific signals and other more specialized
@@ -33,9 +33,9 @@ visualization, see below.
 
 ### (Non-interactive) Visualizing the demos online
 
-[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/main/)
+[![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.org/github/hyperspy/hyperspy-demos)
 
-Follow [this link](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/main/) 
+Follow [this link](https://nbviewer.org/github/hyperspy/hyperspy-demos)
 or click on the "render nbviewer" banner above
 to display the demos with the 
 [Jupyter Notebook viewer](http://nbviewer.jupyter.org). 
